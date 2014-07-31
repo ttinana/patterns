@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="GameLaptopBuilder"/>
+<fullyQualifiedTypeName name="LaptopBuilder"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Laptop"/>
+<fullyQualifiedTypeName name="base.AbstractBuilder"/>
+<fullyQualifiedTypeName name="base.Laptop"/>
+<fullyQualifiedTypeName name="base.SalePerson"/>
+<fullyQualifiedTypeName name="ConcreateBuilders.BuisnessTripCompBuilder"/>
+<fullyQualifiedTypeName name="ConcreateBuilders.GameCompBuilder"/>
+</qualifiedTypeNameHistroy>

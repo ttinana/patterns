@@ -1,0 +1,18 @@
+public class Sheep implements Animal {
+
+	public Sheep() {
+		System.out.println("Sheep is made");
+	}
+
+	@Override
+	public Animal makecopy() throws CloneNotSupportedException {
+		System.out.println("Sheep is been made");
+
+		Sheep sheepclone = null;
+
+		sheepclone = (Sheep) super.clone();
+
+		return sheepclone;
+	}
+
+}
