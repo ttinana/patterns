@@ -1,0 +1,30 @@
+public class Laptop {
+	private int cpu;
+	private int resolution;
+	private int usbNumbers;
+
+	public int getCpu() {
+		return cpu;
+	}
+
+	public void setCpu(int cpu) {
+		this.cpu = cpu;
+	}
+
+	public int getResolution() {
+		return resolution;
+	}
+
+	public void setResolution(int resolution) {
+		this.resolution = resolution;
+	}
+
+	public int getUsbNumbers() {
+		return usbNumbers;
+	}
+
+	public void setUsbNumbers(int usbNumbers) {
+		this.usbNumbers = usbNumbers;
+	}
+
+}

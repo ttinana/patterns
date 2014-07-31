@@ -1,0 +1,32 @@
+public abstract class LaptopBuilder {
+
+	protected Laptop laptop;
+
+	public Laptop getLaptop() {
+		return laptop;
+	}
+
+	public void setLaptop(Laptop laptop) {
+		this.laptop = laptop;
+	}
+
+	public Laptop getMyLaptop() {
+		return laptop;
+
+	}s
+
+	public abstract void setCpu();
+
+	public abstract void setResolution();
+
+	public abstract void setUsb();
+
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Gaming computer: cpu: " + laptop.getCpu() + " resolution: "
+				+ laptop.getResolution() + "p" + " usb: "
+				+ laptop.getUsbNumbers();
+	}
+
+}

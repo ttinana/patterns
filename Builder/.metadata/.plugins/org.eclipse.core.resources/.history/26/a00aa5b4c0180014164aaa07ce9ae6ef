@@ -1,0 +1,13 @@
+import ConcreateBuilders.BuisnessTripCompBuilder;
+import ConcreateBuilders.GameCompBuilder;
+import base.SalePerson;
+
+public class Main {
+
+	SalePerson saler = new SalePerson();
+	BuisnessTripCompBuilder tripBuilder = new BuisnessTripCompBuilder();
+	GameCompBuilder gameBuilder = new GameCompBuilder();
+	
+	saler.
+
+}

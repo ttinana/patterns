@@ -1,0 +1,29 @@
+public class GameLaptopBuilder extends LaptopBuilder {
+
+	
+	public Laptop getLaptop() {
+		return laptop;
+		
+	}
+	
+	@Override
+	public void setCpu() {
+		laptop.setCpu(8);
+
+	}
+
+	@Override
+	public void setResolution() {
+		laptop.setResolution(1080);
+
+	}
+
+	@Override
+	public void setUsb() {
+		laptop.setUsbNumbers(8);
+
+	}
+
+	
+
+}

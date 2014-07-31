@@ -1,0 +1,8 @@
+package base;
+
+public class Laptop {
+	
+	private int cpus;
+	private String name;
+
+}

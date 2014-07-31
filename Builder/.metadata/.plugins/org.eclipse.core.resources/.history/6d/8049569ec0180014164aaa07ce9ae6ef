@@ -1,0 +1,8 @@
+import base.SalePerson;
+
+
+public class Main {
+	
+	SalePerson saler = new SalePerson();;
+
+}

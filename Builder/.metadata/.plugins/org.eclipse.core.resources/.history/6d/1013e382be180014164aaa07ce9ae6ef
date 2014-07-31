@@ -1,0 +1,7 @@
+package ConcreateBuilders;
+
+import AbstractBuilder;
+
+public class GameCompBuilder extends AbstractBuilder{
+
+}

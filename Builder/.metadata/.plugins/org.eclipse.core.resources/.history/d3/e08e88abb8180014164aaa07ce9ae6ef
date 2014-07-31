@@ -1,0 +1,22 @@
+
+public class GameLaptopBuilder extends LaptopBuilder {
+
+	@Override
+	public void setCpu() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setResolution() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setUsb() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

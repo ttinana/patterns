@@ -1,0 +1,24 @@
+
+public class SalePerson {
+
+	private LaptopBuilder builder;
+
+	public LaptopBuilder getBuilder() {
+		return builder;
+	}
+
+	public void setBuilder(LaptopBuilder builder) {
+		this.builder = builder;
+	}
+	
+	public void constructLapTop(){
+		builder.setCpu();
+		builder.setResolution();
+		builder.setUsb();
+	}
+	
+	public Laptop getComputer(){
+		return builder.getMyLaptop();
+	}
+	 
+}

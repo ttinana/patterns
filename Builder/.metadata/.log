@@ -1,0 +1,193 @@
+!SESSION 2014-07-31 16:27:02.252 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\Builder -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:27:06.767
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-31 16:27:09.898
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-31 16:27:09.899
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-07-31 16:27:31.848
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:00.165
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:00.214
+!MESSAGE Reloading core Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:00.220
+!MESSAGE Added core Builder with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest247067534.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:00.223
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:49.254
+!MESSAGE Files removed. Reloading Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:37:49.255
+!MESSAGE Reloading core Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:38:30.339
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:38:37.294
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:39:18.107
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:39:49.044
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:40:04.324
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:40:13.601
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:41:13.602
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:41:14.661
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:41:39.721
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:42:17.544
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:42:50.255
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:43:36.035
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:45:34.513
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:46:15.830
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:47:25.260
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:50:18.279
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\LaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:50:29.490
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:50:52.031
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:52:45.675
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:53:02.939
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\SalePerson.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\GameLaptopBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:54:42.179
+!MESSAGE Files removed. Reloading Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:54:42.180
+!MESSAGE Reloading core Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:16:43.002
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:18:50.835
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:19:52.710
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\AbstractBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:20:07.854
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\AbstractBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:21:34.738
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\AbstractBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:23:09.855
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\AbstractBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:23:53.922
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\GameCompBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:28:39.213
+!MESSAGE Files removed. Reloading Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:28:39.214
+!MESSAGE Reloading core Builder
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:28:39.217
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\Laptop.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\GameCompBuilder.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\AbstractBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:29:21.793
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\BuisnessTripCompBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:30:17.176
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\BuisnessTripCompBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:30:33.627
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:31:15.560
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:32:42.403
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\GameCompBuilder.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\SalePerson.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\AbstractBuilder.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\ConcreateBuilders\BuisnessTripCompBuilder.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:33:17.245
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:33:18.290
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\SalePerson.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:33:27.210
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:34:10.067
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:40:29.882
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:43:16.036
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:43:17.211
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:43:48.103
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:43:49.323
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:44:39.694
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:44:40.751
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\Laptop.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 17:44:48.259
+!MESSAGE Builder Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Builder\Builder\bin\base\Laptop.class]

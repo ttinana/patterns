@@ -1,0 +1,6 @@
+
+public abstract class AbstractBuilder {
+	
+	protected Laptop laptop;
+
+}

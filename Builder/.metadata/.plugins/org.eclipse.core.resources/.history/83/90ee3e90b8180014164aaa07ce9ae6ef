@@ -1,0 +1,22 @@
+public abstract class LaptopBuilder {
+
+	protected Laptop laptop;
+
+	public Laptop getLaptop() {
+		return laptop;
+	}
+
+	public void setLaptop(Laptop laptop) {
+		this.laptop = laptop;
+	}
+
+	public Laptop getMyLaptop() {
+		return laptop;
+
+	}
+	
+	public abstract void setCpu();
+	public abstract void setResolution();
+	
+
+}
