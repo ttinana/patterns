@@ -1,0 +1,7 @@
+package RealObjects;
+
+import InterfacesThings.Cat;
+
+public class TeddyCat implements Cat{
+
+}

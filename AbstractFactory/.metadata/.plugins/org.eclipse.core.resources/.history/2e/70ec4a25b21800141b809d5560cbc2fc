@@ -1,0 +1,15 @@
+package RealObjects;
+
+import InterfacesThings.Bear;
+
+public class TeddyBear implements Bear{
+
+	@Override
+	public Bear getBear() {
+		// TODO Auto-generated method stub
+		return new TeddyBear();
+	}
+	
+	
+
+}

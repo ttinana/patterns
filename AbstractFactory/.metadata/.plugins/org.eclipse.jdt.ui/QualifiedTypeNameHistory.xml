@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Bear"/>
+<fullyQualifiedTypeName name="Cat"/>
+<fullyQualifiedTypeName name="RealObjects.WoodenBear"/>
+<fullyQualifiedTypeName name="RealObjects.WoodenCat"/>
+<fullyQualifiedTypeName name="RealObjects.TeddyBear"/>
+<fullyQualifiedTypeName name="RealObjects.TeddyCat"/>
+<fullyQualifiedTypeName name="Factories.WoodenFactory"/>
+<fullyQualifiedTypeName name="Factories.AbstractFactory"/>
+<fullyQualifiedTypeName name="Factories.TeddyFactories"/>
+<fullyQualifiedTypeName name="InterfacesThings.Bear"/>
+<fullyQualifiedTypeName name="InterfacesThings.Cat"/>
+</qualifiedTypeNameHistroy>

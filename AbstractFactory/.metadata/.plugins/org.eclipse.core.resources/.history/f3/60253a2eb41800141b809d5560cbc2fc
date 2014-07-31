@@ -1,0 +1,6 @@
+public interface AbstractFactory {
+
+	public Bear getBear();
+	public Cat getCat();
+
+}

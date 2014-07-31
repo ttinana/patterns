@@ -1,0 +1,7 @@
+package InterfacesThings;
+
+public interface Bear {
+	
+	public Bear getBear();
+
+}

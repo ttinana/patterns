@@ -1,0 +1,15 @@
+import Factories.AbstractFactory;
+import Factories.TeddyFactories;
+import Factories.WoodenFactory;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		AbstractFactory wooden = new WoodenFactory();
+		AbstractFactory teddy = new TeddyFactories();
+		
+		Bear [] bears = {wooden.getBear(), teddy.getBear()};
+
+	}
+}

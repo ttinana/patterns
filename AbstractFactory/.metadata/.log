@@ -1,0 +1,142 @@
+!SESSION 2014-07-31 15:53:47.313 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:53:52.427
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-31 15:53:55.178
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-07-31 15:53:55.179
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-07-31 15:54:12.934
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:26.212
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:26.243
+!MESSAGE Reloading core AbstractFactory
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:26.250
+!MESSAGE Added core AbstractFactory with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest1276942090.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:26.252
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Bear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:36.221
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Bear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:54:46.792
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Cat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:55:00.203
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Cat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:55:39.226
+!MESSAGE Files removed. Reloading AbstractFactory
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:55:39.227
+!MESSAGE Reloading core AbstractFactory
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:55:39.242
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Bear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Cat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:56:00.934
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:56:15.861
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:56:39.610
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Bear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:56:44.083
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Bear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:56:53.834
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:57:23.151
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:57:32.500
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenBear.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 15:58:45.524
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:07:12.748
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenBear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Cat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:07:46.373
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:08:16.310
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:08:28.017
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:09:09.675
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:10:09.175
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenCat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:10:28.350
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\AbstractFactory.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:11:28.285
+!MESSAGE Files removed. Reloading AbstractFactory
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:11:28.286
+!MESSAGE Reloading core AbstractFactory
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:11:28.287
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\AbstractFactory.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenBear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Bear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyCat.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\WoodenCat.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\RealObjects\TeddyBear.class, C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\InterfacesThings\Cat.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:11:30.893
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\AbstractFactory.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:11:44.789
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\WoodenFactory.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:12:33.346
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\WoodenFactory.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:12:47.125
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\TeddyFactories.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:13:14.149
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Factories\TeddyFactories.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:13:59.997
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:14:38.128
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:16:29.299
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:17:22.377
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-07-31 16:17:36.636
+!MESSAGE AbstractFactory Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\AbstractFactory\AbstractFactory\bin\Main.class]

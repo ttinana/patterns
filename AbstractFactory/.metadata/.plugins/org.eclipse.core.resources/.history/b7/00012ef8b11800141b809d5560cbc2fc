@@ -1,0 +1,6 @@
+
+public interface Cat {
+
+	
+	public Cat getCat();
+}
