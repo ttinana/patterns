@@ -1,0 +1,7 @@
+public class ElectricitySystem {
+
+	public static void chargeNoteBook(INewElectricitySystem system) {
+
+	}
+
+}

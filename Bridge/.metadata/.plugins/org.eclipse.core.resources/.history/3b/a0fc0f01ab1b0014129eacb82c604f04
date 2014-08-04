@@ -1,0 +1,9 @@
+
+public abstract class IBuildingCompany {
+	
+	private IRoofCreator creator;
+	
+	public void buildRoof();
+	public void buildFloor();
+
+}

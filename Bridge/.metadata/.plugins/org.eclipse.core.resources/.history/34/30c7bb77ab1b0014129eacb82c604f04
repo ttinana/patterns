@@ -1,0 +1,10 @@
+
+public class RuralCompany extends IBuildingCompany {
+
+	@Override
+	public void buildFloor() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

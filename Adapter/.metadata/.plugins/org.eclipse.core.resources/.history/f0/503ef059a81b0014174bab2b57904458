@@ -1,0 +1,8 @@
+public class ElectricitySystem {
+
+	public static void chargeNoteBook(INewElectricitySystem system) {
+
+		System.out.println(system.matchWideSocket());
+	}
+
+}

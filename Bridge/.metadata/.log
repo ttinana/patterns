@@ -1,0 +1,121 @@
+!SESSION 2014-08-04 10:38:57.570 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:39:01.508
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-04 10:39:03.341
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-04 10:39:03.342
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-08-04 10:40:04.264
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:40:38.929
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:40:38.960
+!MESSAGE Reloading core Bridge
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:40:38.965
+!MESSAGE Added core Bridge with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest946810314.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:40:38.967
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IBuildingCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:41:33.728
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IBuildingCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:42:05.206
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:42:17.718
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:43:27.817
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IBuildingCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:44:28.249
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\IBuildingCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:44:50.138
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\CityCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:45:53.836
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\CityCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:45:54.916
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\CityCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:46:10.646
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:46:23.733
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:46:43.708
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:46:44.754
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralCompany.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:47:04.783
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:47:44.760
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:47:45.809
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\RuralRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:48:05.002
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\CityRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:48:32.259
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\CityRoofCreator.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:48:38.709
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:49:56.568
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:50:19.710
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:50:21.060
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:50:37.333
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:51:10.827
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:51:20.600
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:51:25.037
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:52:02.645
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:52:19.481
+!MESSAGE Bridge Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Bridge\Bridge\bin\Main.class]

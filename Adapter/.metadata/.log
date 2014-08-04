@@ -1,0 +1,106 @@
+!SESSION 2014-08-04 10:12:59.556 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:13:03.927
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-04 10:13:06.371
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-04 10:13:06.372
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-08-04 10:13:40.752
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:16:10.903
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:16:10.935
+!MESSAGE Reloading core Adapter
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:16:10.940
+!MESSAGE Added core Adapter with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest1075174435.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:16:10.941
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\OldElectricirySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:16:49.094
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\OldElectricirySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:17:45.015
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\INewElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:18:11.803
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\INewElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:18:29.347
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\NewElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:18:45.055
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\OldElectricirySystem.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\INewElectricitySystem.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\NewElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:18:57.684
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\NewElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:19:28.768
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Adapter.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:20:42.232
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Adapter.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:21:11.956
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Adapter.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:21:16.011
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Adapter.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:21:36.395
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:22:06.697
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:22:16.106
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:22:17.573
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Adapter.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:22:32.952
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:22:42.161
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:23:54.098
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:24:20.733
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\ElectricitySystem.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:24:22.481
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:24:54.066
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:25:02.689
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-04 10:25:04.463
+!MESSAGE Adapter Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Adapter\Adapter\bin\Main.class]

@@ -1,0 +1,9 @@
+
+public interface IBuildingCompany {
+	
+	private IRoofCreator creator;
+	
+	public void buildRoof();
+	public void buildFloor();
+
+}

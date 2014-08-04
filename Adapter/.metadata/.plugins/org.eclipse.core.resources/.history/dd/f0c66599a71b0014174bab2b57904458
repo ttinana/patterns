@@ -1,0 +1,9 @@
+public class NewElectricitySystem implements INewElectricitySystem {
+
+	@Override
+	public String matchWideSocket() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

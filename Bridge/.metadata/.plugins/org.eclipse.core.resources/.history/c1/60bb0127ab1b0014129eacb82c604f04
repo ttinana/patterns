@@ -1,0 +1,13 @@
+public abstract class IBuildingCompany {
+
+	private IRoofCreator creator;
+
+	public void buildRoof() {
+		creator.build();
+	}
+
+	public abstract void buildFloor();
+	
+	public abstract setCreator(IRoofCreator creator);
+
+}
