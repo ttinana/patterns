@@ -1,0 +1,10 @@
+
+public class Facade {
+
+	private Bakery bakery = new Bakery();
+	
+	public double buyDinner(){
+		
+	}
+	
+}

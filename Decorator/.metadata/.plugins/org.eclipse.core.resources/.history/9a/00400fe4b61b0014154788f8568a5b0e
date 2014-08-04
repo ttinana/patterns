@@ -1,0 +1,9 @@
+public class BMW extends Car {
+
+	@Override
+	public void go() {
+		System.out.println("I'm BMW");
+
+	}
+
+}

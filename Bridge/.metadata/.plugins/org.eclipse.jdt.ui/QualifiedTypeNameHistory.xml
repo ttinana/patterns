@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="IBuildingCompany"/>
+<fullyQualifiedTypeName name="RuralCompany"/>
+<fullyQualifiedTypeName name="CityCompany"/>
+<fullyQualifiedTypeName name="IRoofCreator"/>
+<fullyQualifiedTypeName name="CityRoofCreator"/>
+<fullyQualifiedTypeName name="RuralRoofCreator"/>
+</qualifiedTypeNameHistroy>
