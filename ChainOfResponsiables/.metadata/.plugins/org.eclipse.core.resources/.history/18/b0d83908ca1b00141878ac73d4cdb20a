@@ -1,0 +1,10 @@
+
+public class Div implements IHandler {
+
+	@Override
+	public double execute(int a, int b) {
+		// TODO Auto-generated method stub
+		return (double)a/b;
+	}
+
+}

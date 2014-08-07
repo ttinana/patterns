@@ -1,0 +1,9 @@
+public class RobotDefuserProxyimplements IRobot {
+
+	private RobotBombDefuser bombDefuser;
+
+	public RobotDefuserProxy() {
+		bombDefuser = new RobotBombDefuser();
+	}
+
+}

@@ -1,0 +1,9 @@
+public class Main {
+
+	public static void main(String[] args) {
+
+		HandlerManager m = new HandlerManager();
+		IHandler add = new Add();
+
+	}
+}

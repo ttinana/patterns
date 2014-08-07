@@ -1,0 +1,10 @@
+
+public class Add implements IHandler{
+
+	@Override
+	public double execute(int a, int b) {
+		// TODO Auto-generated method stub
+		return a+b;
+	}
+
+}

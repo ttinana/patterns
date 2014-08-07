@@ -1,0 +1,6 @@
+
+public class RobotDefuserProxy extends RobotBombDefuser {
+
+	private RobotBombDefuser bombDefuser;
+	
+}

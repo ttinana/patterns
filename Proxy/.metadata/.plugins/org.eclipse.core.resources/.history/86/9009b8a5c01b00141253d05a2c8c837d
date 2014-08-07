@@ -1,0 +1,39 @@
+public class RobotDefuserProxy implements IRobot {
+
+	private RobotBombDefuser bombDefuser;
+
+	public RobotDefuserProxy() {
+		bombDefuser = new RobotBombDefuser();
+	}
+
+	@Override
+	public boolean isConnected() {
+		// TODO Auto-generated method stub
+		return bombDefuser.isConnected();
+	}
+
+	@Override
+	public void walkStreight(int steps) {
+		bombDefuser.walkStreight(steps);
+		
+	}
+
+	@Override
+	public void turnLeft() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void turnRight() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void defuseBomb() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

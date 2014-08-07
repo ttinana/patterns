@@ -1,0 +1,13 @@
+public class Main {
+	public static void main(String[] args) {
+
+		IChain add = new AddChain();
+		IChain muChain = new MultyChain();
+		
+		add.setNextChain(muChain);
+		
+		add.execute(1, 3, "mult");
+
+	}
+
+}

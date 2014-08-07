@@ -1,0 +1,18 @@
+public class MultyChain implements IChain {
+
+	private IChain next;
+
+	@Override
+	public void execute(int numb1, int numb2, String sign) {
+		if ("mult".equals(sign))
+			System.out.println("Operation * " + numb1 * numb2);
+
+	}
+
+	@Override
+	public void setNextChain(IChain next) {
+		this.next.setNextChain(next);
+
+	}
+
+}

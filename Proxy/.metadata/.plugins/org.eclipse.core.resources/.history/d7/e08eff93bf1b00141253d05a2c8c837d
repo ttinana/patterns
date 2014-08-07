@@ -1,0 +1,20 @@
+public abstract class RobotBombDefuser {
+
+	private int robotConfiguredWave = 42;
+	private boolean isConnected = false;
+	
+	public void connectWireless(int waveLenght){
+		if(waveLenght == 42){
+			isConnected = true;
+		}
+	}
+	
+	public boolean isConnected() {
+		return isConnected;
+	}
+	
+	public abstract void walkStreight(){
+		sys
+	}
+
+}

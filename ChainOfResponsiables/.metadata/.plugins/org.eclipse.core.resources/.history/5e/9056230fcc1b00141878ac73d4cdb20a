@@ -1,0 +1,5 @@
+public interface IHandler {
+
+	public double execute(int a, int b);
+
+}

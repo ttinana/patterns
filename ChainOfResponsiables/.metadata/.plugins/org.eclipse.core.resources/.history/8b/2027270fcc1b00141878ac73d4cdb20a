@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class HandlerManager {
+	private List<IHandler> list;
+
+	public HandlerManager() {
+		list = new ArrayList<IHandler>();
+	}
+
+	public void register(IHandler handler) {
+		list.add(handler);
+	}
+
+	public double doProcess(int a, int b, String sign) {
+		return 1.0;
+	}
+
+}

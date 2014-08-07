@@ -1,0 +1,17 @@
+public class Main {
+
+	public static void main(String[] args) {
+
+		HandlerManager m = new HandlerManager();
+		IHandler add = new Add();
+		IHandler multy = new Multy();
+		IHandler div = new Div();
+		
+		m.register(div);
+		m.register(multy);
+		m.register(add);
+		
+		m.doProcess(3, 5, "+");
+
+	}
+}
