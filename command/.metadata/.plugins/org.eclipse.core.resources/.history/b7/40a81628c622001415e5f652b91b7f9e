@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class Foreman {
+	
+	private List<ICommand> comands;
+	
+	public Foreman(){
+		comands = new ArrayList<ICommand>();
+	}
+
+}
