@@ -1,0 +1,35 @@
+package players;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class BoxFight implements ISubject {
+
+	private List<IObserver> observers;
+
+	
+	
+	public BoxFight(){
+		observers = new ArrayList<IObserver>();
+	}
+	
+	
+	@Override
+	public void attachObserver(IObserver observer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void detachObserver(IObserver observer) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void note() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

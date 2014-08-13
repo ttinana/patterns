@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Observer/src/players&apos;&#x0D;&#x0A;- Original project: &apos;Observer&apos;&#x0D;&#x0A;- Destination element: &apos;Observer/src/players&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ISubject.java&#x0D;&#x0A;     IObserver.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;players" element1="/src&lt;{ISubject.java" element2="/src&lt;{IObserver.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1407940375764" units="2" version="1.0"/>
+</session>

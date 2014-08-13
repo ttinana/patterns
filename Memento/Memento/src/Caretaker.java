@@ -23,6 +23,7 @@ class Originator {
 				+ state);
 	}
 
+	// could not be a member of Originator
 	public static class Memento {
 		private final String state;
 

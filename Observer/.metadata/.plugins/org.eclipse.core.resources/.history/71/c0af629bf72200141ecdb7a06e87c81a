@@ -1,0 +1,12 @@
+package players;
+
+public class Main {
+	
+	public static void main(String[] args) {
+		
+		BoxFight fight = new BoxFight();
+		
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package players;
+
+public class CalmPlayer implements IObserver{
+
+}
