@@ -1,0 +1,19 @@
+public class Originator {
+
+	private String text;
+
+	public void set(String s) {
+		System.out.println("O: version is: " + text);
+		text = s;
+	}
+
+	public Memento saveInMemento() {
+		System.out.println("SA");
+		return new Memento(text);
+	}
+	
+	public String restoreFromString(Memento memento){
+		return memento.getSavedState();
+	}
+
+}

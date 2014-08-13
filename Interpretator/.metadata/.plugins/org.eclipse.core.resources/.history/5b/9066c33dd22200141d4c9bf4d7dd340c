@@ -1,0 +1,9 @@
+public class RealMadrid {
+
+	private String[] team;
+
+	public RealMadrid() {
+		team = new String[3];
+	}
+
+}

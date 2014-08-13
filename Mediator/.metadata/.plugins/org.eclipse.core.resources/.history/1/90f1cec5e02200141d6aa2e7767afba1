@@ -1,0 +1,17 @@
+public class Brain {
+
+	private Ear ear;
+	private Heart heart;
+	private Leg leg;
+
+	public Brain() {
+		createParts();
+	}
+
+	private void createParts() {
+		ear = new Ear(this);
+		heart = new Heart(this);
+		leg = new Leg(this);
+	}
+
+}

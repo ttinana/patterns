@@ -1,0 +1,9 @@
+public class Originator {
+
+	private String text;
+
+	public void set(String s) {
+		System.out.println("O: version is: "+text);
+	}
+
+}

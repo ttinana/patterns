@@ -1,0 +1,17 @@
+import java.util.Iterator;
+
+
+public class Manager {
+
+	
+	
+	public void showList(Iterator<String> first, Iterator<String> second){
+		
+		
+		
+		while(first.hasNext()){
+			String player = first.next();
+			System.out.println();
+		}
+	}
+}

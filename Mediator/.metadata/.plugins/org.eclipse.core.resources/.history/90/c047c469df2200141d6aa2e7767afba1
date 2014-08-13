@@ -1,0 +1,5 @@
+public class BodyPart {
+
+	private Brain brain;
+
+}

@@ -1,0 +1,8 @@
+
+public class UkraineTeam {
+	
+	private List<String> team;
+	
+	
+
+}

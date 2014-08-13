@@ -1,0 +1,85 @@
+!SESSION 2014-08-13 11:52:43.465 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 11:52:47.302
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-13 11:52:49.227
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-13 11:52:49.228
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-08-13 12:29:19.812
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:01:05.441
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:01:05.479
+!MESSAGE Reloading core Iterator
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:01:05.488
+!MESSAGE Added core Iterator with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest1422068580.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:01:05.490
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:03:26.757
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:06:00.382
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:08:37.275
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\RealMadrid.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:10:07.560
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\RealMadrid.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:12:23.107
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\RealMadrid.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:14:10.330
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\RealMadrid.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:14:11.408
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\UkraineTeam.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:14:23.551
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Manager.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:16:30.567
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Manager.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:17:04.451
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Manager.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:17:12.487
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:17:56.957
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Main.class, C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Manager.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:18:12.191
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:18:42.873
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-13 13:18:46.885
+!MESSAGE Iterator Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\Interpretator\Iterator\bin\Main.class]

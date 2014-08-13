@@ -1,0 +1,12 @@
+public class Memento {
+
+	private String text;
+
+	public Memento(String s) {
+		text = s;
+	}
+
+	public String getSavedState() {
+		return text;
+	}
+}
