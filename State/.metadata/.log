@@ -1,0 +1,61 @@
+!SESSION 2014-08-14 14:32:08.910 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data C:\Users\ykaplunskyi\Desktop\git\patterns\State -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 14:32:12.852
+!MESSAGE Beans loaded: [org.springframework.context.annotation.internalConfigurationAnnotationProcessor, org.springframework.context.annotation.internalAutowiredAnnotationProcessor, org.springframework.context.annotation.internalRequiredAnnotationProcessor, org.springframework.context.annotation.internalCommonAnnotationProcessor, infinitestConfig, org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor, resultCollectorBean, coreLifecycleObserver, classFileChangeProcessor, cleanEventProcessor, coreUpdateNotifier, saveDetector, failureMediator, infinitestActivationController, markerClearingRunnable, markerClearingObserver, markerPlacer, problemMarkerRegistry, resourceLookupAdapter, slowMarkerRegistry, preferenceChangeHandler, slowTestObserver, swtEventQueue, testResultAggregator, visualStatusPresenter, coreFactory, eclipseWorkspace, infinitestCoreRegistry, javaProjectSet, workspaceResourceFinder, workspace, sourceContainer]
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-14 14:32:15.180
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-08-14 14:32:15.184
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ykaplunskyi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 4 2014-08-14 14:34:43.033
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:22.137
+!MESSAGE Filter file C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\infinitest.filters does not exist.
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:22.165
+!MESSAGE Reloading core State
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:22.170
+!MESSAGE Added core State with classpath C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin;C:/Users/YKAPLU~1/AppData/Local/Temp/infinitest1632798665.jar
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:22.171
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\ATMState.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:32.484
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\ATMState.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:03:50.396
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\ARMMachine.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:05:32.116
+!MESSAGE Files removed. Reloading State
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:05:32.117
+!MESSAGE Reloading core State
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:05:32.126
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\HasCard.class, C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\ATMMachine.class, C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\ATMState.class, C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\NoCash.class, C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\NoCard.class, C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\HasPin.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:06:00.430
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\Main.class]
+
+!ENTRY org.infinitest.eclipse 1 0 2014-08-14 16:06:13.861
+!MESSAGE State Files changed: [C:\Users\ykaplunskyi\Desktop\git\patterns\State\State\bin\Main.class]
