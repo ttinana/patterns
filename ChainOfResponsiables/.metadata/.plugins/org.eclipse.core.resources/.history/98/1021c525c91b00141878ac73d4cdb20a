@@ -1,5 +1,0 @@
-public interface IChain {
-	public void execute(int numb1, int numb2, String sign);
-
-	public void setNextChain(IChain next);
-}

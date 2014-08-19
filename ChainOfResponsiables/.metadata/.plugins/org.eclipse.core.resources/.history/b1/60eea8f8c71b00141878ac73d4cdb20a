@@ -1,5 +1,0 @@
-
-public interface IChain {
-	public void execute();
-	public void setNextChain(IChain next);
-}

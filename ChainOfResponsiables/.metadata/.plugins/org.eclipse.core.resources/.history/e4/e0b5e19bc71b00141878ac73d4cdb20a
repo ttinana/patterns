@@ -1,5 +1,0 @@
-
-public interface IChaine {
-	public void execute();
-	public void setNextChain();
-}
